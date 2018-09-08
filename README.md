@@ -1,8 +1,8 @@
 # JumbledWords
-One python programm of jumbled words
+One python program/game of jumbled words
 
-For simple python console programm run JumbledWordsSimple.py
+For simple python console programm run : JumbledWordsSimple.py
 
-For spyder JumbledWords.py
+For spyder IDE : JumbledWords.py
 Please run in spyder for good output :
 https://www.spyder-ide.org/
