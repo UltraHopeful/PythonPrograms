@@ -96,7 +96,4 @@ def play():
             if c==0:
                 thank_2(p1name,p2name,pp1,pp2)
                 break
-    else:
-        print(Fore.RED+"Entered value is invalid")
-        print(Style.RESET_ALL)
 play()
