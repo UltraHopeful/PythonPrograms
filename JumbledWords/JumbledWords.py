@@ -6,8 +6,8 @@ Created on Wed Sep  5 23:27:33 2018
 """
 
 import random
-from colorama import Fore, Back, Style 
-
+from colorama import init, Fore, Back, Style 
+init(convert=True)
 def choose():
     words=['rainbow','computer','science','programming','mathematics','player','condition','reverse','water','board','games','engineering','institute','level','muzzle','zigzag','buzzer','health','wealth','sport','cricket','football','baseball']
     pick=random.choice(words)
